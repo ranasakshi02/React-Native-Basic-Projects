@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69591120876",
+    "project_id": "react-demoproject",
+    "storage_bucket": "react-demoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69591120876:android:90f00b71fda3e65bcc9ec9",
+        "android_client_info": {
+          "package_name": "com.redux_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69591120876-jjnmpvvc81gs5bap8u1jd8g1jluvs93e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jsPmm7hqWUHUwQ4PdGLcf8ipuLqIcw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69591120876-jjnmpvvc81gs5bap8u1jd8g1jluvs93e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
